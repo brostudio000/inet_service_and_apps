@@ -29,6 +29,7 @@ nilaiX();
 console.log('Permutasi',r,'dari',n,'objek yang berbeda adalah:',(faktorialN / faktorialX));
 console.log('\n')
 
+//Kombinasi
 const k = 2;
 console.log('Kombinasi')
 console.log('Nilai n:',n);
